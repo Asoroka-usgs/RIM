@@ -18,7 +18,7 @@ library(dataRetrieval)
 
 
 # read in data
-data <- read.csv("D:/Datasets/RIM_Loads/RIMLoads.csv")
+data <- read.csv("~/Datasets/RIM_Loads/RIMLoads.csv")
 
 
 # rename sitenumber cause excel drops 0
